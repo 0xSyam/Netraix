@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782733110223",
+    "project_id": "netrai-fa408",
+    "storage_bucket": "netrai-fa408.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782733110223:android:7a1cfe28e981ccb823c0ba",
+        "android_client_info": {
+          "package_name": "com.livekit.example.VoiceAssistantFlutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782733110223-8feorcoi683a2jnq6l9thf6h3t4cep2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFywFfhvTVhT8CjeMWXRG_FN7VVLfIeVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782733110223-8feorcoi683a2jnq6l9thf6h3t4cep2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782733110223-0k53e1v1hcep7a9552le1qvs9vc1ld31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.livekit.example.VoiceAssistantFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
